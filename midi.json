@@ -1,0 +1,39 @@
+
+[
+    {
+      "id": "beethoven_moonlight_sonata_id",
+      "name": "Beethoven - Moonlight Sonata",
+      "path": "https://github.com/hoandesign/midi-test/blob/master/beethoven-classic-moonlight-sonata.mid?raw=true"
+    },
+    {
+      "id": "coldplay_viva_la_vida_id",
+      "name": "Coldplay - Viva La Vida",
+      "path": "https://github.com/hoandesign/midi-test/blob/master/coldplay-viva-la-vida.mid?raw=true"
+    },
+    {
+      "id": "never_gonna_give_you_up_id",
+      "name": "Never Gonna Give You Up",
+      "path": "https://github.com/hoandesign/midi-test/blob/master/never-gonna-give-you-up.mid?raw=true"
+    },
+    {
+      "id": "pirates_caribbean_hes_a_pirate_id",
+      "name": "Pirates of the Caribbean - He's a Pirate",
+      "path": "https://github.com/hoandesign/midi-test/blob/master/pirates-of-the-caribbean-hes-a-pirate.mid?raw=true"
+    },
+    {
+      "id": "under_the_sea_little_mermaid_id",
+      "name": "Under The Sea (The Little Mermaid)",
+      "path": "https://github.com/hoandesign/midi-test/blob/master/under-the-sea-from-the-little-mermaid.mid?raw=true"
+    },
+    {
+      "id": "youre_only_lonely_l_id",
+      "name": "You're Only Lonely L",
+      "path": "https://github.com/hoandesign/midi-test/blob/master/youre-only-lonely-l.mid?raw=true"
+    },
+    {
+      "id": "kc_jojo_id",
+      "name": "KC & JoJo - All My Life",
+      "path": "https://github.com/hoandesign/midi-test/blob/master/KC-JoJo.mid?raw=true"
+    }
+  ]
+  
